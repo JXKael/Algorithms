@@ -35,6 +35,7 @@ bool Basic::isSorted()
 {
 	for (int i = 1; i < count; ++i)
 		if (less(a[i], a[i - 1])) return false;
+	return true;
 }
 
 void Basic::show()

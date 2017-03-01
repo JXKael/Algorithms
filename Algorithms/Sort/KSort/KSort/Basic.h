@@ -3,6 +3,8 @@
 
 #include "ESortType.h"
 
+#define _min_(a,b) a < b? a: b
+
 class Basic
 {
 protected:
