@@ -68,6 +68,10 @@
     <ClInclude Include="ESortType.h" />
     <ClInclude Include="Insertion.h" />
     <ClInclude Include="KSort.h" />
+    <ClInclude Include="Merge.h" />
+    <ClInclude Include="MergeBU.h" />
+    <ClInclude Include="Quick.h" />
+    <ClInclude Include="Quick3Way.h" />
     <ClInclude Include="Selection.h" />
     <ClInclude Include="Shell.h" />
   </ItemGroup>
@@ -76,6 +80,10 @@
     <ClCompile Include="Insertion.cpp" />
     <ClCompile Include="KSort.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Merge.cpp" />
+    <ClCompile Include="MergeBU.cpp" />
+    <ClCompile Include="Quick.cpp" />
+    <ClCompile Include="Quick3Way.cpp" />
     <ClCompile Include="Selection.cpp" />
     <ClCompile Include="Shell.cpp" />
   </ItemGroup>
